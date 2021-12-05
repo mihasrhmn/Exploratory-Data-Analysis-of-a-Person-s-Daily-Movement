@@ -1,4 +1,4 @@
-# Reproducible Research: Exploratory Data Analysis of a Person's Daily Movement
+# Exploratory Data Analysis of a Person's Daily Movement
 
 ## Introduction
 
